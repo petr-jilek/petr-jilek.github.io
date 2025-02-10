@@ -1,0 +1,25 @@
+{
+  "short_name": "EnerCo Solutions",
+  "name": "EnerCo Solutions - ",
+  "icons": [
+    {
+      "src": "favicon.webp",
+      "type": "image/webp",
+      "sizes": "32x32"
+    },
+    {
+      "src": "enerco-logo-theme-light-192.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "enerco-logo-theme-light-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#c9ef5f",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: 
+
+# Host
+Host: https://enercosolutions.cz
+
+# Sitemaps
+Sitemap: https://enercosolutions.cz/sitemap.xml
