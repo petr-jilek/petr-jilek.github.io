@@ -1,19 +1,47 @@
 <?php
-if (isset($_POST["submit"])) {
-    $name = $_POST["name"];
-    $email = $_POST["email"];
-    $phone = $_POST["phone"];
-    $message = $_POST["message"];
+header("Content-Type: application/json");
 
-    $subject = "Web Contact Form" . $name;
-    $emailTo = "info@enercosolutions.cz";
+$method = $_SERVER['REQUEST_METHOD'];
 
-    $headers = "From: " . $email;
+switch ($method) {
+    case 'POST':
+        try {
+            $input = json_decode(file_get_contents('php://input'), true);
 
-    $content = "Name: " . $name . "\n";
-    $content .= "Email: " . $email . "\n";
-    $content .= "Phone: " . $phone . "\n";
-    $content .= "Message: " . $message . "\n";
+            $name = $input['name'];
+            $email = $input['email'];
+            $phone = $input['phone'];
+            $message = $input['message'];
 
-    mail($emailTo, $subject, $content, $headers);
+            $subject = "Web Contact Form - " . $name;
+            $emailTo = "info@enercosolutions.cz";
+
+            $headers = "From: " . $email;
+
+            $content = "Name: " . $name . "\n\n";
+            $content .= "Email: " . $email . "\n\n";
+            $content .= "Phone: " . $phone . "\n\n";
+            $content .= "Message: " . $message . "\n\n";
+
+            $ok = mail($emailTo, $subject, $content, $headers, '-f ' . $email);
+
+            if ($ok) {
+                header("HTTP/1.1 200 OK");
+
+                exit();
+            } else {
+                header("HTTP/1.1 500 Internal Server Error");
+
+                exit();
+            }
+        } catch (Exception $e) {
+            header("HTTP/1.1 500 Internal Server Error");
+
+            exit();
+        }
+
+        break;
+
+    default:
+        break;
 }

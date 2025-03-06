@@ -1,167 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
->
-    <!-- CS -->
-    <url>
-        <loc>https://enercosolutions.cz</loc>
-        <priority>1.0</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/services</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/services/companies</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/companies" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/companies" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/services/apartment-buildings</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/apartment-buildings" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/apartment-buildings" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/services/municipalities</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/municipalities" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/municipalities" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/about</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/about" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/about" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/glossary</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/glossary" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/glossary" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/contact</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/contact" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/contact" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/privacy-policy</loc>
-        <priority>0.1</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/privacy-policy" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/privacy-policy" />
-    </url>
-
-    <!-- EN -->
-    <url>
-        <loc>https://enercosolutions.cz/en</loc>
-        <priority>1.0</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/services</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/services/companies</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/companies" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/companies" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/services/apartment-buildings</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/apartment-buildings" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/apartment-buildings" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/services/municipalities</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs"
-            href="https://enercosolutions.cz/services/municipalities" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/services/municipalities" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/about</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/about" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/about" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/glossary</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/glossary" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/glossary" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/contact</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/contact" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/contact" />
-    </url>
-
-    <url>
-        <loc>https://enercosolutions.cz/en/privacy-policy</loc>
-        <priority>0.1</priority>
-        <lastmod>2025-02-10</lastmod>
-        <xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/privacy-policy" />
-        <xhtml:link rel="alternate" hreflang="en"
-            href="https://enercosolutions.cz/en/privacy-policy" />
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://enercosolutions.cz</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/services</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/services/companies</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services/companies" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services/companies" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/services/apartment-buildings</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services/apartment-buildings" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services/apartment-buildings" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/services/municipalities</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/services/municipalities" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/services/municipalities" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/about</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/about" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/about" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/glossary</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/glossary" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/glossary" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/contact</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/contact" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/contact" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://enercosolutions.cz/privacy-policy</loc>
+<xhtml:link rel="alternate" hreflang="cs" href="https://enercosolutions.cz/privacy-policy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://enercosolutions.cz/en/privacy-policy" />
+<lastmod>2025-03-06T13:21:39.820Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.1</priority>
+</url>
 </urlset>
