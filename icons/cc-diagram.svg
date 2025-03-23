@@ -1,0 +1,11 @@
+<svg id="eeGZQw30iak1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 300 300" width="300" height="300">
+    <path
+        d="M43.257165,230.205322l21.855957-52.207263l24.731739,26.683712l27.032368-71.930007l28.18268,40.025569l17.829859-11.601614l17.254702,16.82234l24.156583-77.730814l35.659719,49.732754l6.90188,66.863465l18.980173-36.545085l17.254703,69.029602"
+        transform="matrix(1.206968 0 0 1.532397-46.949834-124.054675)" fill="none" stroke="#000"
+        stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="10" y1="270" x2="290" y2="270" style="stroke:#000000;stroke-width:10"
+        stroke-linecap="round" />
+    <line x1="30" y1="290" x2="30" y2="10" style="stroke:#000000;stroke-width:10"
+        stroke-linecap="round" />
+</svg>
