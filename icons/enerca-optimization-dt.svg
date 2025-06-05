@@ -1,0 +1,22 @@
+<svg width="202" height="260" viewBox="0 0 202 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M195.59 257.35L101 162.75" stroke="#ffffff" stroke-width="6" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M195.59 237.42V257.35H175.67" stroke="#ffffff" stroke-width="6" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M6.41016 257.35L101 162.75" stroke="#ffffff" stroke-width="6" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M6.41016 237.42V257.35H26.3302" stroke="#ffffff" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M101 2.23047V162.75" stroke="#ffffff" stroke-width="6" stroke-miterlimit="10" />
+    <path d="M86.9102 16.3205L101 2.23047L115.09 16.3205" stroke="#ffffff" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M199.79 43.0801C199.79 150.7 155.57 237.94 101.01 237.94C46.4505 237.94 2.23047 150.7 2.23047 43.0801"
+        stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M101.011 134.78C152.881 134.78 194.931 116.227 194.931 93.3404C194.931 70.4537 152.881 51.9004 101.011 51.9004C49.1402 51.9004 7.09082 70.4537 7.09082 93.3404C7.09082 116.227 49.1402 134.78 101.011 134.78Z"
+        stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M101.011 177.341C146.094 177.341 182.641 158.286 182.641 134.781C182.641 111.275 146.094 92.2207 101.011 92.2207C55.9279 92.2207 19.3809 111.275 19.3809 134.781C19.3809 158.286 55.9279 177.341 101.011 177.341Z"
+        stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

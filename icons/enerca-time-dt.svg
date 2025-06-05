@@ -1,0 +1,42 @@
+<svg width="155" height="164" viewBox="0 0 155 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M82 82L112 79" stroke="white" stroke-width="6" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M82 82L62 60" stroke="white" stroke-width="6" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M126.709 126.915L150.605 121.378L151.706 145.617" stroke="white" stroke-width="6"
+    stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="32" cy="82" r="6" fill="white" />
+  <circle cx="32" cy="82" r="6" stroke="white" />
+  <circle cx="39" cy="56" r="6" fill="white" />
+  <circle cx="39" cy="56" r="6" stroke="white" />
+  <circle cx="57" cy="38" r="6" fill="white" />
+  <circle cx="57" cy="38" r="6" stroke="white" />
+  <circle cx="107" cy="39" r="6" fill="white" />
+  <circle cx="107" cy="39" r="6" stroke="white" />
+  <circle cx="125" cy="56" r="6" fill="white" />
+  <circle cx="125" cy="56" r="6" stroke="white" />
+  <circle cx="125" cy="106" r="6" fill="white" />
+  <circle cx="125" cy="106" r="6" stroke="white" />
+  <circle cx="107" cy="124" r="6" fill="white" />
+  <circle cx="107" cy="124" r="6" stroke="white" />
+  <circle cx="57" cy="125" r="6" fill="white" />
+  <circle cx="57" cy="125" r="6" stroke="white" />
+  <circle cx="40" cy="108" r="6" fill="white" />
+  <circle cx="40" cy="108" r="6" stroke="white" />
+  <circle cx="132" cy="82" r="6" fill="white" />
+  <circle cx="132" cy="82" r="6" stroke="white" />
+  <circle cx="82" cy="132" r="6" fill="white" />
+  <circle cx="82" cy="132" r="6" stroke="white" />
+  <path
+    d="M82 26C85.3137 26 88 28.6863 88 32C88 35.3137 85.3137 38 82 38C78.6863 38 76 35.3137 76 32C76 28.6863 78.6863 26 82 26Z"
+    fill="white" />
+  <path
+    d="M82 26C85.3137 26 88 28.6863 88 32C88 35.3137 85.3137 38 82 38C78.6863 38 76 35.3137 76 32C76 28.6863 78.6863 26 82 26Z"
+    stroke="white" />
+  <path
+    d="M149.69 121.138C142.42 133.965 131.724 144.485 118.814 151.505C105.904 158.524 91.2974 161.761 76.6519 160.849C62.0063 159.937 47.908 154.912 35.9565 146.345C24.005 137.778 14.6788 126.011 9.03616 112.379C3.39352 98.7475 1.66033 83.7973 4.03323 69.2247C6.40614 54.652 12.7901 41.0404 22.4609 29.9343C32.1316 18.8282 44.7019 10.6722 58.7455 6.3917C72.789 2.11124 87.7436 1.8777 101.912 5.71757"
+    stroke="white" stroke-width="6" />
+  <path
+    d="M103.578 9.24429C105.182 9.6592 106.819 8.6952 107.234 7.09114C107.649 5.48708 106.685 3.85038 105.081 3.43547L103.578 9.24429ZM104.33 6.33988L105.081 3.43547L100.751 2.31556L100 5.21997L99.2487 8.12438L103.578 9.24429L104.33 6.33988Z"
+    fill="white" />
+</svg>
